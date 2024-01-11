@@ -1,4 +1,4 @@
-# galaxy_quest
+# Galaxy Quest
 
 A new Flutter project.
 
